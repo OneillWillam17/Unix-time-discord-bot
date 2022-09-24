@@ -10,7 +10,7 @@ The bot uses regex to determine what time users are referring to and responds wi
 ![imgur](https://i.imgur.com/lTtPuB5.png "Unix Bot Example")
 
 
-# few things to note
+# Few things to note
 1st, if not provided the bot assumes the user is referring to PM.
 
 2nd, The bot only responds to messages that have a specific timezone attached. So 730pm will not work, but 730pm est will work. This is done to have an accurate representation of what time the user is referring to.
